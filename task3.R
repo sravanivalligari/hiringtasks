@@ -1,3 +1,5 @@
+#!/usr/bin/env Rscript
+
 # Loading libraries
 library(ggplot2)
 library(data.table)
